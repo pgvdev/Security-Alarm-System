@@ -34,10 +34,13 @@ A smart security system integrating IoT components to detect intrusions, manage 
 Demo Video: Watch the system in action here. Shows IR remote interaction, LCD feedback, buzzer alerts, and servo locking.
 Iteration Log: Track design changes based on user feedback.
 
+https://github.com/user-attachments/assets/9991ac41-362e-4831-b789-680f79e3d1e9
+
 📈 Future Improvements
 Wi-Fi Integration: Send alerts to smartphones via ESP8266.
 Encrypted IR Signals: Prevent spoofing attacks.
 Enhanced UI: Add buttons for manual override on the breadboard.
+
 
 # Hardware Wiring Guide  
 
@@ -52,4 +55,7 @@ Enhanced UI: Add buttons for manual override on the breadboard.
 | LCD RS              | 7           | Register Select                  |  
 | LCD Enable          | 8           | Enable pin                       |  
 | LCD D4-D7           | 9-12        | Data pins                        |  
+
+<img width="423" alt="alarmsystem" src="https://github.com/user-attachments/assets/22d809f4-44f1-4e54-8d8f-8e44025f4dd2" />
+
   
